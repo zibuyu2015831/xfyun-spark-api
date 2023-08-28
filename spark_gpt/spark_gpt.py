@@ -443,13 +443,3 @@ class SparkGPT(object):
         self._run(self.text)
         answer = self.get_answer()
         return answer
-
-
-speaker = SparkGPT()
-# speaker.talk()
-speaker.ask("秦始皇出名的儿子都有谁？", flow_print=True)
-# print(speaker.all_answers_data)
-#
-# for answer_dict in speaker.all_answers_data:
-#     for answer in answer_dict:
-#         print(f"key={answer},value={answer_dict[answer]}")

@@ -6,20 +6,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5651e964-07f3-4e9e-905c-738ecb97f113" name="Default Changelist" comment="" />
+    <list default="true" id="5651e964-07f3-4e9e-905c-738ecb97f113" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_gpt/spark_gpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/spark_gpt/spark_gpt.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693141700359</updated>
       <workItem from="1693141703139" duration="6343000" />
-      <workItem from="1693184440256" duration="18930000" />
+      <workItem from="1693184440256" duration="19680000" />
     </task>
     <servers />
   </component>
@@ -140,29 +134,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1693221125573">
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1693226487132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693221125573" />
-    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1693221125573">
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693226487132" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1693226487132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693221125573" />
-    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1693221125573">
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693226487132" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1693226487132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693221125573" />
-    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1693221125573">
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693226487132" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1693226487132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693221125573" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693226487132" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1693217290287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1693217290287" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/xfyun_spark_api$spark_gpt.coverage" NAME="spark_gpt Coverage Results" MODIFIED="1693221115551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spark_gpt" />
+    <SUITE FILE_PATH="coverage/xfyun_spark_api$spark_gpt.coverage" NAME="spark_gpt Coverage Results" MODIFIED="1693226487122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spark_gpt" />
     <SUITE FILE_PATH="coverage/xfyun_spark_api$.coverage" NAME="临时 Coverage Results" MODIFIED="1693220337790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spark_gpt" />
   </component>
 </project>
